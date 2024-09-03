@@ -1,0 +1,2 @@
+# SO-Tugas-1-2
+TUGAS 1 &amp; 2 SISTEM OPERASI
