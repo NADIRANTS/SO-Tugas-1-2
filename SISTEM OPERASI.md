@@ -102,7 +102,7 @@ Kerusakan data saat sistem tidak ditutup dengan benar.
 - journaling untuk meningkatkan integritas data.
 - mudah diupgrade ke ext4 tanpa memformat ulang partisi.
 - tidak seefisien ext4 dalam hal manajemen ruang dan kecepatan akses.
-- 
+  
 3.) Swap
 Penjelasan: Swap bukanlah sistem berkas, melainkan partisi atau file khusus yang 
 digunakan untuk
